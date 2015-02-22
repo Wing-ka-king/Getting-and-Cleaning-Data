@@ -1,0 +1,12 @@
+#codebook for the features
+
+meanX = mean of the measurements of acceleration of body in x direction for each activity_label and each subject
+  ; same applies to meanY and meanZ.
+  
+stdX = mean of the measurements of standard deviations of body in X direction for each activity_label and each
+ Subject; same applies to stdY and stdZ.
+ 
+ Activity_labels = each subject performs 6 activities labeled as WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,
+                  STANDING, SITTING, LAYING.
+
+Subject = there are 30 subjects who were employed to get the measurements.
